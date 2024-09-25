@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------------------------------
 -- Course: ECE 232 - Digital System Design Lab
--- Author: 
+-- Author: Ember Ipek
 -- 
 -- Create Date: 
 -- Experiment Name: Priority Encoder in VHDL (Lab #8)
